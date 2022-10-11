@@ -7,95 +7,8 @@
     <option name="rewriteBookmarkType" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3ed0698-dce5-49ec-a06f-e9d1597ee94f" name="Changes" comment="Test IntelliJ">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fall/Tesseract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/dist/README.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/dist/tess4j-3.4.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/commons-beanutils-1.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/fontbox-2.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/ghost4j-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/itext-2.1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/jai-imageio-core-1.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/jbig2-imageio-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/jboss-vfs-3.2.12.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/jna-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/lept4j-1.6.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/log4j-over-slf4j-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/logback-classic-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/logback-core-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/nblibraries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/pdfbox-2.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/pdfbox-tools-2.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/win32-x86-64/libtesseract3051.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/win32-x86/libtesseract3051.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/lib/xmlgraphics-commons-1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/private/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/private/private.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/private/private.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/com/recognition/software/jdeskew/ImageDeskew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/com/recognition/software/jdeskew/ImageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/ITessAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/ITesseract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/TessAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/TessAPI1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/Tesseract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/Tesseract1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/TesseractException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/ImageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/ImageIOHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/LoadLibs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/LoggHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/LoggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/PdfBoxUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/PdfGsUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/PdfUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/src/net/sourceforge/tess4j/util/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/configs/api_config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/configs/digits" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/configs/hocr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/eng.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/osd.traineddata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/pdf.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/tessdata/pdf.ttx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/ProgressMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/TessAPI1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/TessAPIImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/TessAPITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/Tesseract1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/TesseractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/TestFolderExtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/net/sourceforge/tess4j/util/PdfUtilitiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext_deskew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext_unlv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/eurotext_unlv.uzn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/test/resources/test-data/multipage-pdf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tess4J/versionchanges.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+    <list default="true" id="b3ed0698-dce5-49ec-a06f-e9d1597ee94f" name="Changes" comment="Fertigstellung des Fall packages, erste Schritte mit Selenium und headless brwoser automation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lukegoll/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lukegoll/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,8 +90,16 @@
       <updated>1665416919474</updated>
       <workItem from="1665416920607" duration="1122000" />
       <workItem from="1665420748253" duration="1501000" />
-      <workItem from="1665501932306" duration="5399000" />
+      <workItem from="1665501932306" duration="6174000" />
     </task>
+    <task id="LOCAL-00001" summary="Fertigstellung des Fall packages, erste Schritte mit Selenium und headless brwoser automation">
+      <created>1665507469210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665507469210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fertigstellung des Fall packages, erste Schritte mit Selenium und headless brwoser automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fertigstellung des Fall packages, erste Schritte mit Selenium und headless brwoser automation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
